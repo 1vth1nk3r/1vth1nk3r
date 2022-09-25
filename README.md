@@ -1,4 +1,4 @@
-### Hi there 👋
+### Here are some things
 
 <!--
 **1vth1nk3r/1vth1nk3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
